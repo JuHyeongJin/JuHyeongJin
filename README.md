@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=ISFP%20개발자&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=ISFP%20Developer&fontSize=50)
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
